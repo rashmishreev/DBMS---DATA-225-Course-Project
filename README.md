@@ -40,6 +40,8 @@ Our data warehouse employs a star schema with 9 static dimensions corresponding 
 ![reverse_engineered](https://github.com/rashmishreev/DBMS---DATA-225-Course-Project/blob/main/Images/reverse_engineered.png)
 
 **Neo4j Data Model:**
+
+The Neo4j data model below illustrates 14 nodes connected by edges that denote their relationships. Both nodes and edges are characterized by properties like jobDate, monthyr, etc.
 ![Neo4j](https://github.com/rashmishreev/DBMS---DATA-225-Course-Project/blob/main/Images/Neo4J_Modelling.png)
 
 
