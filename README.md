@@ -30,4 +30,17 @@ Normalized and cleaned CSV data is imported into the MySQL server via MySQL Work
 
 Workflow 1 and 3 were employed to reproduce the viable analytical solutions provided by established job portals in the market. Meanwhile, Workflow 2 was utilized to create one of our visual solutions, monitoring skill demand in the current job market.
 
+### Data Modelling
+
+Our data warehouse employs a star schema with 9 static dimensions corresponding to each entity type and a single fact table containing quantitative measures and foreign keys from all dimension tables as its composite primary key.
+
+![ERD](https://github.com/rashmishreev/DBMS---DATA-225-Course-Project/blob/main/Images/erd.png)
+
+**Reverse-engineered data model:**
+![reverse_engineered](https://github.com/rashmishreev/DBMS---DATA-225-Course-Project/blob/main/Images/erd.png)
+
+**Neo4j Data Model:**
+![Neo4j](https://github.com/rashmishreev/DBMS---DATA-225-Course-Project/blob/main/Images/Neo4J_Modelling.png)
+
+
 
