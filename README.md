@@ -37,7 +37,7 @@ Our data warehouse employs a star schema with 9 static dimensions corresponding 
 ![ERD](https://github.com/rashmishreev/DBMS---DATA-225-Course-Project/blob/main/Images/erd.png)
 
 **Reverse-engineered data model:**
-![reverse_engineered](https://github.com/rashmishreev/DBMS---DATA-225-Course-Project/blob/main/Images/erd.png)
+![reverse_engineered](https://github.com/rashmishreev/DBMS---DATA-225-Course-Project/blob/main/Images/reverse_engineered.png)
 
 **Neo4j Data Model:**
 ![Neo4j](https://github.com/rashmishreev/DBMS---DATA-225-Course-Project/blob/main/Images/Neo4J_Modelling.png)
