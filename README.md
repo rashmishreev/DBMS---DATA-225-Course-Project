@@ -20,13 +20,13 @@ Raw CSV data was processed and cleaned using Python's PySpark and Pandas. The pr
 
 The Skill attribute and related features were stored in a separate CSV file to adhere to the First Normal Form. Using Python Pandas, essential attributes for the Neo4J data model were mapped to this file. After importing the updated CSV into Neo4J AuraDB, the data model was constructed. The Graph Database was connected to the GraphXR Platform for visual analytics using the Neo4J Data Model's API Connection String.
 
-![Workflow 2](https://github.com/rashmishreev/DBMS---DATA-225-Course-Project/blob/main/Images/ProjectFlow3.drawio.png)
+<img align="centre" width="700" height="400" src=https://github.com/rashmishreev/DBMS---DATA-225-Course-Project/blob/main/Images/ProjectFlow3.drawio.png>
 
 **Workflow 3**
 
 Normalized and cleaned CSV data is imported into the MySQL server via MySQL Workbench. Connection to the MySQL server is established using the Python/MySQL connector from a Python application, facilitating data analysis through SQL queries in MySQL Workbench and Python code.
 
-![Workflow 3](https://github.com/rashmishreev/DBMS---DATA-225-Course-Project/blob/main/Images/ProjectFlow2.drawio.png)
+<img align="centre" width="700" height="400" src=https://github.com/rashmishreev/DBMS---DATA-225-Course-Project/blob/main/Images/ProjectFlow2.drawio.png>
 
 Workflow 1 and 3 were employed to reproduce the viable analytical solutions provided by established job portals in the market. Meanwhile, Workflow 2 was utilized to create one of our visual solutions, monitoring skill demand in the current job market.
 
