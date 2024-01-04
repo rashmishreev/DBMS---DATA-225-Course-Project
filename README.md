@@ -14,7 +14,7 @@ Top economic policy researchers and consulting firms like McKinsey and Deloitte 
 
 Raw CSV data was processed and cleaned using Python's PySpark and Pandas. The processed data was stored in an Amazon S3 bucket on AWS, crawled to the Glue Data Catalog, and underwent ETL processes using Glue jobs. Finally, the data was loaded into Amazon Redshift for analysis through SQL queries in the Redshift Query Editor V2.
 
-![Workflow 1](https://github.com/rashmishreev/DBMS---DATA-225-Course-Project/blob/main/Images/ProjectFlowAws.drawio.png)
+![Workflow 1]<img align="center" width="500" height="400" src=https://github.com/rashmishreev/DBMS---DATA-225-Course-Project/blob/main/Images/ProjectFlowAws.drawio.png>
 
 **Workflow 2**
 
