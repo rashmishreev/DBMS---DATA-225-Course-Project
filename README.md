@@ -57,8 +57,8 @@ The Neo4j data model below illustrates 14 nodes connected by edges that denote t
 4. Pay range for a Software Development Engineer at Google in different locations.
 5. The career path of a Clinical Researcher, includes average salary, education, and experience.
 
-![]("/Images/no_of_jobs_CMO.png")
-!(/Images/DA_by_location.png)
-!(/Images/DA_skills.png)
-!(/Images/location_salary.png)
-!(/Images/career_trajectory.png)
+![](https://github.com/rashmishreev/Empowering-job-seekers-with-information-beyond-the-job-description/blob/main/Images/no_of_jobs_CMO.png)
+![](https://github.com/rashmishreev/Empowering-job-seekers-with-information-beyond-the-job-description/blob/main/Images/DA_by_location.png)
+![](https://github.com/rashmishreev/Empowering-job-seekers-with-information-beyond-the-job-description/blob/main/Images/DA_skills.png)
+![](https://github.com/rashmishreev/Empowering-job-seekers-with-information-beyond-the-job-description/blob/main/Images/location_salary.png)
+![](https://github.com/rashmishreev/Empowering-job-seekers-with-information-beyond-the-job-description/blob/main/Images/career_trajectory.png)
