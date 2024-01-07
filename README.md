@@ -50,6 +50,8 @@ The Neo4j data model below illustrates 14 nodes connected by edges that denote t
 ![Neo4j](https://github.com/rashmishreev/DBMS---DATA-225-Course-Project/blob/main/Images/Neo4J_Modelling.png)
 
 ### Analytics and Data-Driven Results
+> [!NOTE]
+> Analysis was conducted using Python with MySQL, and some utilized Amazon Redshift's query editor v2.
 1. Number of job openings by job type, sorted by companies with over 50 postings.
 ![1](https://github.com/rashmishreev/Empowering-job-seekers-with-information-beyond-the-job-description/blob/main/Images/no_of_jobs_CMO.png)
 2. List of 'Data Analyst' job postings in each U.S. state, sorted from most to least.
