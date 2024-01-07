@@ -91,9 +91,7 @@ This high-level overview outlines the steps involved in the Extract, Transform, 
    - Employ ETL jobs on AWS Glue for data type transformations, extracting month-year, quarter-year, and year from the job_date field, and removing duplicates.
 6. **Loading Data into Redshift:**
    - Load the transformed data into Redshift from Glue using the previously created Glue job.
-7. **Repeat ETL for Other Files:**
-   - Repeat the above process for all other CSV files using multiple ETL jobs.
-8. **Data Warehousing:**
+7. **Data Warehousing:**
    - Load all the tables into the Amazon Redshift Data Warehouse.
 
 > :face_exhaling: TLDR: This ETL workflow encompasses loading raw data with Python, transforming it into multiple tables, integrating with AWS S3 and Glue for preprocessing, setting up Amazon Redshift for data warehousing, and executing ETL processes to load and refine data, ultimately facilitating comprehensive analysis and reporting. 
