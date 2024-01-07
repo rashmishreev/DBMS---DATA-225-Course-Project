@@ -55,5 +55,6 @@ The Neo4j data model below illustrates 14 nodes connected by edges that denote t
 2. List of 'Data Analyst' job postings in each U.S. state, sorted from most to least.
 3. What are the top 10 skills needed for a Data Analyst?
 4. Pay range for a Software Development Engineer at Google in different locations.
-5. The career path of a Clinical Researcher, includes average salary, education, and experience. 
+5. The career path of a Clinical Researcher, includes average salary, education, and experience.
 
+<img align="left" width="250" height="150" src="/Images/no_of_jobs_CMO.png"> [Number of job openings by job type, sorted by companies with over 50 postings.]
