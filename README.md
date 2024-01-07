@@ -74,10 +74,10 @@ Our data warehouse employs a star schema with 9 static dimensions corresponding 
 
 This high-level overview outlines the steps involved in the Extract, Transform, Load (ETL) process.
 
-> 1. **Load Raw Data:**
+1. **Load Raw Data:**
    - Use Python's PySpark module and pandas library.
    - Load the raw CSV dataset into PySpark's RDD structure in Python.
-  2. **Data Transformation and Feature Engineering:**
+2. **Data Transformation and Feature Engineering:**
    - Perform data transformations, feature engineering, and filter rows (e.g., filter out Internship jobs).
    - Divide the dataset into multiple tables, creating 9 dimensions and 1 fact table.
    - Store each table in separate CSV files.
