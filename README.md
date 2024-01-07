@@ -67,7 +67,3 @@ The Neo4j data model below illustrates 14 nodes connected by edges that denote t
 5. The career path of a Clinical Researcher, includes average salary, education, and experience.
 ![5](https://github.com/rashmishreev/Empowering-job-seekers-with-information-beyond-the-job-description/blob/main/Images/career_trajectory.png)
 > In the displayed result, we illustrate the career progression for individuals in Clinical Research, advising on how they can advance in their chosen field and specifying the maximum salary they can anticipate at each career stage.
-
-<img align="centre" width="700" height="400" src=https://github.com/rashmishreev/DBMS---DATA-225-Course-Project/blob/main/Images/erd.png>
-<img align="centre" width="700" height="400" src=https://github.com/rashmishreev/DBMS---DATA-225-Course-Project/blob/main/Images/reverse_engineered.png>
-<img align="centre" width="700" height="400" src=https://github.com/rashmishreev/DBMS---DATA-225-Course-Project/blob/main/Images/Neo4J_Modelling.png>
