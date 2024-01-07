@@ -50,15 +50,13 @@ The Neo4j data model below illustrates 14 nodes connected by edges that denote t
 ![Neo4j](https://github.com/rashmishreev/DBMS---DATA-225-Course-Project/blob/main/Images/Neo4J_Modelling.png)
 
 ### Analytics and Data-Driven Results
-
 1. Number of job openings by job type, sorted by companies with over 50 postings.
+![1](https://github.com/rashmishreev/Empowering-job-seekers-with-information-beyond-the-job-description/blob/main/Images/no_of_jobs_CMO.png)
 2. List of 'Data Analyst' job postings in each U.S. state, sorted from most to least.
+![2](https://github.com/rashmishreev/Empowering-job-seekers-with-information-beyond-the-job-description/blob/main/Images/DA_by_location.png)
 3. What are the top 10 skills needed for a Data Analyst?
+![3](https://github.com/rashmishreev/Empowering-job-seekers-with-information-beyond-the-job-description/blob/main/Images/DA_skills.png)
 4. Pay range for a Software Development Engineer at Google in different locations.
+![4](https://github.com/rashmishreev/Empowering-job-seekers-with-information-beyond-the-job-description/blob/main/Images/location_salary.png)
 5. The career path of a Clinical Researcher, includes average salary, education, and experience.
-
-![](https://github.com/rashmishreev/Empowering-job-seekers-with-information-beyond-the-job-description/blob/main/Images/no_of_jobs_CMO.png)
-![](https://github.com/rashmishreev/Empowering-job-seekers-with-information-beyond-the-job-description/blob/main/Images/DA_by_location.png)
-![](https://github.com/rashmishreev/Empowering-job-seekers-with-information-beyond-the-job-description/blob/main/Images/DA_skills.png)
-![](https://github.com/rashmishreev/Empowering-job-seekers-with-information-beyond-the-job-description/blob/main/Images/location_salary.png)
-![](https://github.com/rashmishreev/Empowering-job-seekers-with-information-beyond-the-job-description/blob/main/Images/career_trajectory.png)
+![5](https://github.com/rashmishreev/Empowering-job-seekers-with-information-beyond-the-job-description/blob/main/Images/career_trajectory.png)
