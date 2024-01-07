@@ -55,10 +55,15 @@ The Neo4j data model below illustrates 14 nodes connected by edges that denote t
 1. Number of job openings by job type, sorted by companies with over 50 postings.
 ![1](https://github.com/rashmishreev/Empowering-job-seekers-with-information-beyond-the-job-description/blob/main/Images/no_of_jobs_CMO.png)
 2. List of 'Data Analyst' job postings in each U.S. state, sorted from most to least.
-![2](https://github.com/rashmishreev/Empowering-job-seekers-with-information-beyond-the-job-description/blob/main/Images/DA_by_location.png)
+> The Data Analyst role has the most job postings in California (251 openings), followed by Texas (210 openings). Job opportunities are greater in states where many companies have their headquarters. ![2](https://github.com/rashmishreev/Empowering-job-seekers-with-information-beyond-the-job-description/blob/main/Images/DA_by_location.png)
 3. What are the top 10 skills needed for a Data Analyst?
-![3](https://github.com/rashmishreev/Empowering-job-seekers-with-information-beyond-the-job-description/blob/main/Images/DA_skills.png)
+> For a data analyst in the industry, the most crucial skills include data analysis, Microsoft Excel, SQL, and effective communication. ![3](https://github.com/rashmishreev/Empowering-job-seekers-with-information-beyond-the-job-description/blob/main/Images/DA_skills.png)
 4. Pay range for a Software Development Engineer at Google in different locations.
 ![4](https://github.com/rashmishreev/Empowering-job-seekers-with-information-beyond-the-job-description/blob/main/Images/location_salary.png)
+
+> Job seekers should consider pay differences by location when choosing a career. We use the query above to help them input their role and firm name, providing insights into average maximum and minimum salaries across locations.
+
 5. The career path of a Clinical Researcher, includes average salary, education, and experience.
 ![5](https://github.com/rashmishreev/Empowering-job-seekers-with-information-beyond-the-job-description/blob/main/Images/career_trajectory.png)
+
+> In the displayed result, we illustrate the career progression for individuals in Clinical Research, advising on how they can advance in their chosen field and specifying the maximum salary they can anticipate at each career stage.
