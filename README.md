@@ -72,8 +72,8 @@ Our data warehouse employs a star schema with 9 static dimensions corresponding 
 
 ### The Complete ETL Workflow Overview
 
-This high-level overview outlines the steps involved in the Extract, Transform, Load (ETL) process for the given dataset.
-
+This high-level overview outlines the steps involved in the Extract, Transform, Load (ETL) process.
+>
 1. **Load Raw Data:**
    - Use Python's PySpark module and pandas library.
    - Load the raw CSV dataset into PySpark's RDD structure in Python.
@@ -103,4 +103,4 @@ This high-level overview outlines the steps involved in the Extract, Transform, 
 8. **Data Warehousing:**
    - Load all the tables into the Amazon Redshift Data Warehouse.
 
-> TLDR :face_exhaling:: This ETL workflow encompasses loading raw data with Python, transforming it into multiple tables, integrating with AWS S3 and Glue for preprocessing, setting up Amazon Redshift for data warehousing, and executing ETL processes to load and refine data, ultimately facilitating comprehensive analysis and reporting. 
+> :face_exhaling: TLDR: This ETL workflow encompasses loading raw data with Python, transforming it into multiple tables, integrating with AWS S3 and Glue for preprocessing, setting up Amazon Redshift for data warehousing, and executing ETL processes to load and refine data, ultimately facilitating comprehensive analysis and reporting. 
