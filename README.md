@@ -77,29 +77,22 @@ This high-level overview outlines the steps involved in the Extract, Transform, 
 > 1. **Load Raw Data:**
    - Use Python's PySpark module and pandas library.
    - Load the raw CSV dataset into PySpark's RDD structure in Python.
-
 2. **Data Transformation and Feature Engineering:**
    - Perform data transformations, feature engineering, and filter rows (e.g., filter out Internship jobs).
    - Divide the dataset into multiple tables, creating 9 dimensions and 1 fact table.
    - Store each table in separate CSV files.
-
 3. **AWS Integration:**
    - Preprocess CSV files and load them into an S3 bucket, serving as a data lake on AWS using the command line interface.
    - Use a crawler to catalog the data on AWS Glue.
-
 4. **Amazon Redshift Setup:**
    - Create a cluster on Amazon Redshift and the corresponding database.
    - Establish and test the connection to Redshift on AWS Glue.
-
 5. **ETL Processing:**
    - Employ ETL jobs on AWS Glue for data type transformations, extracting month-year, quarter-year, and year from the job_date field, and removing duplicates.
-
 6. **Loading Data into Redshift:**
    - Load the transformed data into Redshift from Glue using the previously created Glue job.
-
 7. **Repeat ETL for Other Files:**
    - Repeat the above process for all other CSV files using multiple ETL jobs.
-
 8. **Data Warehousing:**
    - Load all the tables into the Amazon Redshift Data Warehouse.
 
