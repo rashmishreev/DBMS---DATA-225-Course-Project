@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white) ![AmazonS3](https://img.shields.io/badge/Amazon_S3-FF9333?style=for-the-badge&logo=amazons3&logoColor=black) ![Redshift](https://img.shields.io/badge/Amazon_Redshift-%238C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=black) ![AWSGlue](https://img.shields.io/badge/AWS_Glue-B2FF33?style=for-the-badge&logoColor=black) ![Spark](https://img.shields.io/badge/Apache_Spark-%23E25A1C?style=for-the-badge&logo=apachespark&logoColor=black) ![Neo4j](https://img.shields.io/badge/Neo4j-%234581C3?style=for-the-badge&logo=neo4j&logoColor=white)
+
 # Empowering job seekers with information beyond the stated job description
 
 <img align="right" src="https://github.com/rashmishreev/DBMS---DATA-225-Course-Project/blob/main/Images/blog.png"> [Checkout the blog on Medium](https://medium.com/@rashmishree.veeraiah/empowering-job-seekers-in-the-market-with-information-above-and-beyond-the-stated-job-description-d0f98c753a4f)
